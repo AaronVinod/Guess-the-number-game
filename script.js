@@ -191,3 +191,4 @@ function showNumberBelow(){
   document.getElementById("result").innerHTML = dialog;
 }
 
+console.log('hi')
