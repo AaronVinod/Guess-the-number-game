@@ -192,3 +192,5 @@ function showNumberBelow(){
 }
 
 console.log('hi')
+
+console.log('hi, the date is 8/4/21')
